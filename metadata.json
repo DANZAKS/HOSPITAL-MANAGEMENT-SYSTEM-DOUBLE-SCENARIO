@@ -1,0 +1,6 @@
+{
+  "name": "Double Scenario Health Care",
+  "description": "Comprehensive healthcare administration platform for Double Scenario Health Care, serving Admins, Patients, Doctors, and Pharmacists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
